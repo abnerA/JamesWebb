@@ -6,7 +6,7 @@ main {
 
 .container {
     width: 90%;
-    height: 1490px;
+    height: auto;
 }
 
 h3 {
